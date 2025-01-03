@@ -24,7 +24,7 @@ unit_mapping = {
 }
 
 # Judul aplikasi
-st.title("SMC Optima")
+st.title("SCM Optima")
 
 # Upload file dataset
 uploaded_file = st.file_uploader("Unggah Dataset Anda (format CSV)", type=["csv"])
